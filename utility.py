@@ -44,7 +44,7 @@ def yellow_handle_movement(keys_pressed, yellow, VELOCITY, BORDER):
     |       D        |     RIGHT   |
     |       W        |     UP      |
     |       S        |     DOWN    |
-    |   Left CTRL    |     FIRE    |   in handle_bullets function
+    |   Spacebar     |     FIRE    |   in handle_bullets function
     +----------------+-------------+
     :param keys_pressed: Gives which keys are pressed on keyboard.
     :param yellow: Bounding rectangle of yellow Spaceship.
